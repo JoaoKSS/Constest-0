@@ -1,6 +1,6 @@
-# 🎯 Desafios de Programação - Contestes
+# 🎯 Desafios de Programação - Contests
 
-Este repositório reúne as soluções dos contestes 0 
+Este repositório reúne as soluções dos contests 0 
 
 **Desafios de Programação**.
 
